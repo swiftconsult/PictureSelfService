@@ -13,6 +13,6 @@ To compile and run the .NET module, the libraries of QOIM (currently version 6.0
 
 ##Licensing
 
-The code is available at [github](home) under [LGPL3](https://www.gnu.org/licenses/lgpl.html).
+The code is available at [github](https://github.com/swiftconsult/PictureSelfService) under [LGPL3](https://www.gnu.org/licenses/lgpl.html).
 
 We encourage you to use and enhance this code and to share your achievements - especially when adopting new QOIM versions (as they likely contain breaking changes in the undocumented API).
